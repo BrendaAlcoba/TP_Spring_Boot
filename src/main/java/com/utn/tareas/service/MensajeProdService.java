@@ -14,6 +14,6 @@ public class MensajeProdService implements MensajeService {
 
     @Override
     public void mostrarDespedida() {
-        System.out.println("🔒 Finalizando ejecución en entorno PROD");
+        System.out.println("👋 Finalizando ejecución en entorno PROD");
     }
 }
